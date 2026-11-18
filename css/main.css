@@ -125,6 +125,7 @@ body{
     justify-content: center;
     align-items: center;
     gap: 17px;
+    margin-bottom: 56px;
 }
 .title {
     
@@ -152,4 +153,87 @@ body{
     font-weight: 500;
     font-size: 16px;
     color: #fff;
+}
+
+.sec1{
+    padding-top: 72px;
+    padding-bottom: 32px;
+}
+
+.title1 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    color: #282525;
+    text-align: center;
+    margin-bottom: 56px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    color: #282525;
+}
+.rooms {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 128px;
+}
+.room {
+    max-width: 142px;
+}
+
+.h22 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 100%;
+    color: #282525;
+    margin-top: 12px;
+    margin-bottom: 4px;
+    text-align: center;
+}
+.p1 {
+    color: #5D5656;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    text-align: center;
+}
+
+.container {
+}
+.sec2 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+}
+.main1 {
+    display: flex;
+    gap: 88px;
+}
+.text {
+    margin-top: 81px;
+    max-width: 372px;
+}
+.tit {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    color: #282525;
+    margin-bottom: 24px;
+    max-width: 237px;
+}
+.titp {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    color: #5D5656;
+    margin-bottom: 40px;
+}
+.btnn {
+    background-color: #DC3845;
+    padding: 16px 32px;
+    border-radius: 64px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
 }
