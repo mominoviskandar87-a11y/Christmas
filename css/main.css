@@ -237,3 +237,53 @@ body{
     font-size: 16px;
     line-height: 100%;
 }
+
+
+.sec2 {
+    margin-bottom: 32px;
+}
+.title2 {
+    text-align: center;
+    margin-top: 72px;
+    margin-bottom: 64px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    color: #282525;
+}
+.xonalar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 680px;
+    gap: 40px;
+   
+}
+.xona {
+    max-width: 200px;
+    border: 2px solid red;
+    border-radius: 12px;
+    
+}
+.yurak {
+    display: flex;
+    justify-content: end;
+}
+.rasm {
+    margin-bottom: 16px;
+
+}
+.ph {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 100%;
+    color: #282525;
+    margin-bottom: 4px;
+}
+.po {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    color: #5D5656;
+    margin-bottom: 24px;
+}
