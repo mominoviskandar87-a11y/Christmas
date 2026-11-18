@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button{
+    border: none;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 25px;
+    padding-left: 25px;
+    max-width: 1280px;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;    
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.logo {
+}
+.links {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+}
+.link {
+}
+.main {
+}
+.title {
+}
+.h11 {
+}
+.pp {
+}
+.btn {
+}
